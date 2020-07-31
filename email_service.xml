@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T01:31:01.931Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.5.5" etag="LpMMukK1LWNcZS_0-JH-" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T05:41:48.649Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.5.5" etag="NlCBF-HgUBtO95rza2MU" type="github">
   <diagram id="6990b3c3-70be-38df-b988-52c91511bfe1" name="Page-1">
     <mxGraphModel dx="1389" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -672,6 +672,36 @@
         </mxCell>
         <mxCell id="gQ9duNIHN7LxL464n3ME-281" value="BO可以查看和操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-282" value="SES" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ses;fillColor=#D9A741;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="2240.75" width="79.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-283" value="SMTP" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/IMPRESSIONS/mail_icons/png/128/smtp_server.png;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="2240.75" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-285" value="S3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="2401.75" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-286" value="SNS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="308.25" y="2410" width="76.5" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-287" value="SQS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2401.75" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-288" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.aurora_instance;" vertex="1" parent="1">
+          <mxGeometry x="206" y="2561" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-289" value="Redshift" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redshift;fillColor=#2E73B8;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="393.5" y="2562.5" width="67.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-290" value="Email Service" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email_notification;fillColor=#D9A741;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="207.75" y="2047" width="100.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-291" value="Email Event" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.event_event_based;fillColor=#759C3E;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="424" y="2038.75" width="60" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ9duNIHN7LxL464n3ME-294" value="Send Cloud" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="136" y="2269" width="60" height="36.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
