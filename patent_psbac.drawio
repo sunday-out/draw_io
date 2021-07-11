@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T15:24:39.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="thNHwxpmhxM75VOdxhw6" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T15:25:10.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RUc-i2-zXI1ErNvXQF7g" version="14.8.5" type="github">
   <diagram id="KYx8RAsD82NPJKNrfT8i" name="Page-1">
     <mxGraphModel dx="872" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="t17s-WDCnflojWWr3krS-6" value="Roles" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="350" y="201" width="64" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="t17s-WDCnflojWWr3krS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
