@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T07:38:08.097Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="zdvF-oavHfZqrVZGAnI-" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T07:41:33.384Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="iT5EcoaBMv0oUSJXiTvG" version="14.1.3" type="github">
   <diagram id="EaKpr4KOWZ1DuzalrsOD" name="Page-1">
     <mxGraphModel dx="1561" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,10 +358,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HLyOq21jewa7LnVJzZWy-206" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/467/Redis_Logo-128.png;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="-190" width="128" height="128" as="geometry" />
+          <mxGeometry x="1101" y="-149.6" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="HLyOq21jewa7LnVJzZWy-207" value="SQS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1081.25" width="76.5" height="93" as="geometry" />
+          <mxGeometry x="1132.25" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="HLyOq21jewa7LnVJzZWy-208" value="S3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1132.25" y="160" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
